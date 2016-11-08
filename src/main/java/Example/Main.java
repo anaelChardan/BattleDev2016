@@ -10,8 +10,7 @@ import java.util.Scanner;
 //EXEMPLE DU MOT LE PLUS LONG DANS
 public class Main {
     public static void main(String[] args) throws IOException {
-        System.setIn(Reader.getInstance().getFile("EXEMPLE_1.txt"));
-
+        System.setIn(Reader.getInstance().getFile("input3.txt"));
 
         Scanner scan = new Scanner(System.in);
         ArrayList<Integer> list = new ArrayList<Integer>();
