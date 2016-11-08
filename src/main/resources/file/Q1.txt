@@ -1,6 +1,4 @@
-5
-rouge
-rouge
-bleu
-vert
-bleu
+3
+10 10 20
+5 5 1
+40 40 1
